@@ -2,7 +2,7 @@
 
 ## 나에게 맞는 모바일 요금제 선택 서비스
 월요금, 프로모션기간, 통신망, 월 제공데이터, 소진후 데이터속도, NFC유심 요금 등 너무나도 고려 할 것이 많은 현실. 아몰랑 대충 고르기에는 은근한 누적 요금 차이!
-![image](https://github.com/hwtheowl/choose_mobile_plan/assets/132368135/2006f5ac-68d6-4242-b996-67c9ffda4a52)
+![image](https://github.com/hwtheowl/choose_mobile_plan/assets/132368135/78f093ca-f09e-4500-b22d-a10037104953)
 (예시입니다.)
 
 요금제를 선택했을때 기간에 누적 요금을 한번에 표로, 그래프로 보여주고 비교까지 해주는 서비스
